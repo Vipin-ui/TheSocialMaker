@@ -1,0 +1,5 @@
+{
+  "name": "Instagram Clone",
+  "description": "A fully functional UI clone of the Instagram web application, built with React, TypeScript, and Tailwind CSS. It features core layouts like the home feed, profile pages, reels, and messaging, designed to be visually appealing and responsive.",
+  "requestFramePermissions": []
+}
